@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Rifat Hussain  
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+%26+Machine+Learning+Enthusiast;Passionate+Learner;Entrepreneurship;Building+Something+Impactful..." />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+%26+Machine+Learning+Enthusiast;Passionate+Learner;Aspiring+Entrepreneur;Building+Something+Impactful..." />
+
+---
+
+💡 Turning ideas into real-world AI solutions  
 
 ---
 
@@ -78,10 +82,11 @@
 ## ⚡ Fun Fact  
 
 I love learning 🌍 and exploring ideas that can change lives 🚀  
-    
-            
-                             Connect so we grow together ;)
 
 ---
+
+## 🤝 Let’s Connect  
+
+Let’s connect and grow together 🚀
 
 
