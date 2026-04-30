@@ -1,21 +1,87 @@
-<h1 align="center">Hi 👋, I'm Rifat Hussain.</h1>
-<h3 align="center">Tech and AI enthusiast.</h3>
+# 👋 Hi, I'm Rifat Hussain  
 
-- 🌱 I’m currently learning **Machine Learning and AI**
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+%26+Machine+Learning+Enthusiast;Passionate+Learner;Entrepreneurship;Building+Something+Impactful..." />
 
-- 📫 How to reach me **riffathussain2005@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/rifat-hussain-9731a8324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/rifat-hussain-9731a8324" height="30" width="40" /></a>
+## 🚀 About Me  
+
+🎓 BS Computer Science Student  
+🤖 Exploring **Machine Learning & Artificial Intelligence**  
+🔐 Interested in **Cybersecurity + AI Solutions**  
+
+---
+
+## 🌱 Currently Learning  
+
+- 🧠 Machine Learning  
+- 🤖 Artificial Intelligence  
+- 📊 Data Science  
+- 🐍 Backend Development (Python)  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+
+### 🌐 Web & App  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+
+### 📊 Data & Tools  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)  
+![Seaborn](https://img.shields.io/badge/Seaborn-2E86C1?style=for-the-badge)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riffat-hussain&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riffat-hussain&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riffat-hussain&show_icons=true&locale=en&layout=compact" alt="riffat-hussain" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riffat-hussain&show_icons=true&locale=en" alt="riffat-hussain" /></p>
+## 🔥 Streak Stats  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riffat-hussain&" alt="riffat-hussain" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=riffat-hussain&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+- 📧 Email: **riffathussain2005@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/rifat-hussain-9731a8324  
+
+---
+
+## 🌟 Quote  
+
+> *"Small steps every day lead to big achievements tomorrow."*  
+
+---
+
+## ⚡ Fun Fact  
+
+I love learning 🌍 and exploring ideas that can change lives 🚀  
+    
+            
+                             Connect so we grow together ;)
+
+---
+
 
